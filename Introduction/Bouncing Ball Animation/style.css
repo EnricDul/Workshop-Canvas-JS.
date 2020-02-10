@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(216, 216, 216);
+}
+canvas {
+  border: solid 1px black;
+  border-radius : 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top : 10%;
+}
+
+div {
+  width: 100%;
+}
+ul {
+  display : block;
+  width : 50%;
+  margin-left : auto;
+  margin-right: auto;
+}

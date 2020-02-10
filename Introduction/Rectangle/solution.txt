@@ -1,0 +1,8 @@
+//VOTRE CODE :
+
+ctx.fillStyle = "gold";
+ctx.fillRect(10, 10, 50, 100);
+
+ctx.strokeStyle = "black";
+ctx.strokeRect(60, 110, 50, 50);
+
